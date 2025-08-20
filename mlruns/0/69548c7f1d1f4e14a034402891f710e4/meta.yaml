@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/69548c7f1d1f4e14a034402891f710e4/artifacts
+end_time: 1755659094010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69548c7f1d1f4e14a034402891f710e4
+run_name: rebellious-shoat-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755659086601
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/ff003cb34b42401a855587abed45c05c/artifacts
+end_time: 1753705689421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff003cb34b42401a855587abed45c05c
+run_name: handsome-mouse-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705685963
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/91e21889c3e04485938ffc8317e082f6/artifacts
+end_time: 1753673369314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e21889c3e04485938ffc8317e082f6
+run_name: rare-gnat-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753673365959
+status: 3
+tags: []
+user_id: Admin

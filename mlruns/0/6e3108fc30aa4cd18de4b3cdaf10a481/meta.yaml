@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/6e3108fc30aa4cd18de4b3cdaf10a481/artifacts
+end_time: 1755659122325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e3108fc30aa4cd18de4b3cdaf10a481
+run_name: peaceful-bird-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755659117727
+status: 3
+tags: []
+user_id: Admin

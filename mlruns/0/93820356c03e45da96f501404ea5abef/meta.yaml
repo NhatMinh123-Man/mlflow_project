@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/93820356c03e45da96f501404ea5abef/artifacts
+end_time: 1753705694859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93820356c03e45da96f501404ea5abef
+run_name: dazzling-hen-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705691862
+status: 3
+tags: []
+user_id: Admin

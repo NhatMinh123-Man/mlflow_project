@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/8dd9515f296548d5bca06b097a7224aa/artifacts
+end_time: 1753705683545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd9515f296548d5bca06b097a7224aa
+run_name: bemused-koi-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705679640
+status: 3
+tags: []
+user_id: Admin

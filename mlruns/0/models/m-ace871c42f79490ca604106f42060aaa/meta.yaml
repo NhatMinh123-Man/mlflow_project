@@ -1,0 +1,10 @@
+artifact_location: file:///D:/DevOps/mlflow_project/mlruns/0/models/m-ace871c42f79490ca604106f42060aaa/artifacts
+creation_timestamp: 1753705686470
+experiment_id: '0'
+last_updated_timestamp: 1753705689407
+model_id: m-ace871c42f79490ca604106f42060aaa
+model_type: null
+name: model
+source_run_id: ff003cb34b42401a855587abed45c05c
+status: 2
+status_message: null

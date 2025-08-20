@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/9ef87d15bf714e9a929f2b2cd3c0c868/artifacts
+end_time: 1754879222425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ef87d15bf714e9a929f2b2cd3c0c868
+run_name: able-dog-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754879218206
+status: 3
+tags: []
+user_id: Admin

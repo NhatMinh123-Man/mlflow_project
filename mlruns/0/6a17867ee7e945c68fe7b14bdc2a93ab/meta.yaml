@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/6a17867ee7e945c68fe7b14bdc2a93ab/artifacts
+end_time: 1755677471357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a17867ee7e945c68fe7b14bdc2a93ab
+run_name: angry-trout-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755677466130
+status: 3
+tags: []
+user_id: Admin

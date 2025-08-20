@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/e9663006292f4ced92156a7d7d19a11c/artifacts
+end_time: 1753705700602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9663006292f4ced92156a7d7d19a11c
+run_name: righteous-vole-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705697301
+status: 3
+tags: []
+user_id: Admin

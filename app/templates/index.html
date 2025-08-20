@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ML Classifier App</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      table {
+        border-collapse: collapse;
+        margin-top: 20px;
+        width: 50%;
+      }
+      table,
+      th,
+      td {
+        border: 1px solid #ccc;
+      }
+      th,
+      td {
+        padding: 10px;
+        text-align: left;
+      }
+      h2 {
+        color: #333;
+      }
+      input[type="number"] {
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>ML Classifier App</h2>
+
+    <!-- Form nhập tay -->
+    <form action="/predict" method="post">
+      {% for i in range(meta.n_features or 20) %}
+      <input
+        type="number"
+        step="any"
+        name="feature{{i}}"
+        required
+        placeholder="Feature {{i+1}}"
+        value="{% if form_values %}{{ form_values[i] }}{% endif %}"
+      />
+      <br />
+      {% endfor %}
+      <input type="submit" value="Prediction" />
+    </form>
+
+    <br />
+    <hr />
+
+    <!-- Nút random -->
+    <form action="/random_predict" method="get">
+      <input type="submit" value="Random Dự đoán" />
+    </form>
+
+    <!-- Bảng kết quả -->
+    {% if prediction_text or accuracy or confidence %}
+    <h3>Kết quả dự đoán</h3>
+    <table>
+      <tr>
+        <th>Prediction (Class)</th>
+        <td>{{ prediction_text or "N/A" }}</td>
+      </tr>
+      <tr>
+        <th>Confidence</th>
+        <td>
+          {% if confidence %} {{ confidence * 100 }} % {% else %} N/A {% endif
+          %}
+        </td>
+      </tr>
+      <tr>
+        <th>Best Accuracy (saved)</th>
+        <td>{{ accuracy or "N/A" }}</td>
+      </tr>
+    </table>
+    {% endif %} {% if random_values %}
+    <p><strong>Features after random:</strong> {{ random_values }}</p>
+    {% endif %}
+  </body>
+</html>

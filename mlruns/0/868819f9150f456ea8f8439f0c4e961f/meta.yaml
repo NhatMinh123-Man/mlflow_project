@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/868819f9150f456ea8f8439f0c4e961f/artifacts
+end_time: 1755677399332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 868819f9150f456ea8f8439f0c4e961f
+run_name: carefree-snake-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755677393857
+status: 3
+tags: []
+user_id: Admin

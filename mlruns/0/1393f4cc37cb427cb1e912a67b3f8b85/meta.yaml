@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DevOps/mlflow_project/mlruns/0/1393f4cc37cb427cb1e912a67b3f8b85/artifacts
+end_time: 1755659140148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1393f4cc37cb427cb1e912a67b3f8b85
+run_name: stately-shad-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755659134897
+status: 3
+tags: []
+user_id: Admin
