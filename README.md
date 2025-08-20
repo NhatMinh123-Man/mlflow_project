@@ -59,7 +59,7 @@ Then open `http://127.0.0.1:5000` in your browser.
 - The page shows prediction (class 0/1), confidence, and fixed accuracy of the best model.
 
 ## Repository Link
-Please replace `repo_link.txt` in submission with your GitHub repository link.
+https://github.com/NhatMinh123-Man/Project-DDM501c_MSE.HCM.SU25--NguyenHuynhNhatMinh
 
 ## Author
 Developed as part of an MLOps course project.
